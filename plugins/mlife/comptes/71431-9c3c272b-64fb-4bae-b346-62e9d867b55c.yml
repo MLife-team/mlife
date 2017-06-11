@@ -1,0 +1,17 @@
+compte: 71431
+joueur: Miister
+uuid: 9c3c272b-64fb-4bae-b346-62e9d867b55c
+argent: 1000
+argent-sale: 0
+banque: 0
+metier: Chômeur
+rang: Aucun
+perso:
+  prenom: Bob Lee
+  nom: Swagger
+  origine: USA
+  age: 32
+telephone:
+  numero: 555-1873
+  credit: '21'
+  operateur: Aucun

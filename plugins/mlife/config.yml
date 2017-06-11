@@ -1,0 +1,9 @@
+config:
+  version: '0.1'
+  severname: 'MLife RolePlay'
+  key: MET TA CLÉ
+  ip: 'localhost'
+  devise: €
+  startmoney: 1000
+  startbanque: 0
+  debug: 0
