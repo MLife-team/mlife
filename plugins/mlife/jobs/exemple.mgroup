@@ -1,0 +1,11 @@
+name: Gouvernement
+description: Gorupe qui réunit tout les métiers du gouvernement
+display-name: Gouvernement
+admin: false
+
+#=====================[HELP]=========================#
+# name: police -> Nom du job pour le retrouver
+# description: Description courte pour présenter le job
+# display-name: Policier -> Nom d'affichage du job
+# admin: true/false -> Défini si le job est un job d'admin
+#====================================================#
