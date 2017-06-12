@@ -4,8 +4,8 @@ display-name: Gouvernement
 admin: false
 
 #=====================[HELP]=========================#
-# name: police -> Nom du job pour le retrouver
-# description: Description courte pour présenter le job
-# display-name: Policier -> Nom d'affichage du job
-# admin: true/false -> Défini si le job est un job d'admin
+# name: police -> Nom du groupe pour le retrouver
+# description: Description courte pour présenter le groupe
+# display-name: Policier -> Nom d'affichage du groupe
+# admin: true/false -> Défini si le groupe est un groupe d'admin
 #====================================================#
