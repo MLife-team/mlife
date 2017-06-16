@@ -1,5 +1,6 @@
 name: Boloss-inc
 display-name: Boloss Inc.
+radio-frequency : 'Boloss Inc.'
 description: Ici on vous sous-paye, mais au moins vous relancez vos droits
 declared: true # en gros si tu l'as pas déclaré tu fais de l'argent au black donc illégal loul
 type: # Etat = 0 impots, appartient au gouvernement / Normal = impots à set dans le fichier de config général
@@ -13,7 +14,7 @@ employees:
 		- Xx_SniperDu66OFfIcIeL_xX
 	Salaries:
 		- OimDu02
-	
+
 salaires:
 	PDG: 500000000000
 	Reponsables: 500
@@ -22,6 +23,7 @@ salaires:
 
 # name: Nom de l'entreprise
 # display-name: Nom d'affichage de l'entreprise
+# radio-frequency: 'Aucune' -> Radio de communication de l'entreprise
 # description: Description de l'entreprise
 # declared: true/false Déclarer une entreprise la rend légal aux yeux dela loi
 # type: ETAT: Entreprise appartenant à l'état (Pole Emploi, SNCF) qui ne touche aucun impot / NORMAL: Entreprise normal qui touche les impots set par le maire
