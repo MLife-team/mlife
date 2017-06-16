@@ -1,13 +1,14 @@
 name: Policier
 description: Un super job où tu arrêtes des gens qui ont 81km/h quand la limite est 80km/h
+radio-frequency: 'Police'
 group: TEAM_Police
 display-name: Policier
 salary: 500 # j'essaie de penser à tout x)
 location: x: 500 y: 0 z: 50
 default-items: diamond || dirt || diamond sword
 prefix: &2[Policier]&r
-max-players: 5 
-permission: * 
+max-players: 5
+permission: *
 require-someone: true # defini si on peut prendre le job comme ça ou si quelqu'un doti nous le mettre (ici par exemple un haut gradé de la police)
 can-rankup: false
 admin: false
@@ -16,6 +17,7 @@ skin-url: *
 #=====================[HELP]=========================#
 # name: police -> Nom du job pour le retrouver
 # description: Description courte pour présenter le job
+# radio-frequency: 'Aucune' -> Fréquence radio du job
 # group: Police -> A quel groupe de permissions appartient le job
 # display-name: Policier -> Nom d'affichage du job
 # salary: 0 -> Salaire du job - Mettez " * " si vous voulez que ce soit le patron du job qui set le salaire
@@ -29,4 +31,3 @@ skin-url: *
 # admin: true/false -> Défini si le job est un job d'admin
 # skin-url: http://mlife.fr/assets/skinPolice.png -> Définir un skin pour un job, mettre "*" pour aucun skin - Rendez-vous sur mlife.fr/assets/ pour trouver des skins de base
 #====================================================#
-
